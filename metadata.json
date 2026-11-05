@@ -1,0 +1,6 @@
+{
+  "name": "Number Master 3D",
+  "description": "Premium 3D Number Puzzle Brain Challenge game with 8 exciting game modes, 100 levels, bilingual support, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
